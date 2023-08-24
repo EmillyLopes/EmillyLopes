@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F718C2&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F718C2center=true&vCenter=true&width=435&lines=Hello+welcome+to+my+GitHub+profile;I'm+Emilly+Lopes+a+FullStack+developer+and+Computer+Science+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F718C2&center=true&vCenter=true&width=435&lines=Hello+welcome+to+my+GitHub+profile;I'm+Emilly+Lopes+a+FullStack+developer+and+Computer+Science+Student)](https://git.io/typing-svg)
 
 [![EmillyLopes's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EmillyLopes&theme=rogue)](https://github.com/EmillyLopes/github-readme-activity-graph)
 
