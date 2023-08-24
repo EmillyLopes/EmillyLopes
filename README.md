@@ -49,4 +49,3 @@ _<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F1
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F10A87&height=120&section=footer"/>
 
 ______
-_
