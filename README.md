@@ -1,4 +1,4 @@
-_<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F10A87&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F10A87&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F10A87&center=true&vCenter=true&width=435&lines=Hello!+Welcome+to+my+GitHub+profile!;I'm+Emilly+Lopes!++;a+FullStack+Developer;also+a+computer+science+student)](https://git.io/typing-svg)
 
