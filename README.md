@@ -8,10 +8,8 @@ _<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F1
  
  <div  align="center">
   <a href="https://github.com/EmillyLopes">
-<!--   <img "height="180em" src="https://github-readme-stats-emillylopes.vercel.app/api?username=EmillyLopes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>-->
-  <img "height="180em" src="https://github-readme-stats-wbdu-emillylopes.vercel.app/api?username=EmillyLopes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<!--   <img "height="180em" src="https://github-readme-stats-emillylopes.vercel.app/api/top-langs/?username=EmillyLopes&layout=compact&langs_count=16&theme=radical"/>-->
-  <img "height="180em" src="https://github-readme-stats-wbdu-emillylopes.vercel.app/api/top-langs/?username=EmillyLopes&layout=compact&langs_count=16&theme=radical"/> 
+  <img "height="180em" src="https://github-readme-stats-emillylopes.vercel.app/api?username=EmillyLopes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>-->
+  <img "height="180em" src="https://github-readme-stats-emillylopes.vercel.app/api/top-langs/?username=EmillyLopes&layout=compact&langs_count=16&theme=radical"/>
 
 </div> <br> 
 <div align="center" style="display: inline_block"><br>
