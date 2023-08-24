@@ -4,8 +4,8 @@
 
 [![EmillyLopes's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EmillyLopes&theme=rogue)](https://github.com/EmillyLopes/github-readme-activity-graph)
 
-
-
+##
+ 
  <div  align="center">
   <a href="https://github.com/EmillyLopes">
   <img "height="180em" src="https://github-readme-stats.vercel.app/api?username=EmillyLopes&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
@@ -22,7 +22,7 @@
   <img align="center" alt="Tensorf" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
 </div>
     
-  ##
+##
   
 <div align="center"> 
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -36,3 +36,4 @@
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F718C2&height=120&section=footer"/>
 
+______
