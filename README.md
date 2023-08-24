@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F10A87&center=true&vCenter=true&width=435&lines=Hello!+Welcome+to+my+GitHub+profile!;I'm+Emilly+Lopes!++;a+FullStack+Developer;also+a+computer+science+student)](https://git.io/typing-svg)
 
-[![EmillyLopes's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EmillyLopes&bg_color=120A1A&color=86FBF5&line=F10A87&point=F10A87&area=true&hide_border=true)](https://github.com/EmillyLopes/github-readme-activity-graph)
+[![EmillyLopes's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EmillyLopes&theme=redical&area=true&hide_border=true)](https://github.com/EmillyLopes/github-readme-activity-graph)
 
 ##
  
