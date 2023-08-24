@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F718C2&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F10A87&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F718C2&center=true&vCenter=true&width=435&lines=Hello!+Welcome+to+my+GitHub+profile!;I'm+Emilly+Lopes!++;a+FullStack+Developer;also+a+computer+science+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F10A87&center=true&vCenter=true&width=435&lines=Hello!+Welcome+to+my+GitHub+profile!;I'm+Emilly+Lopes!++;a+FullStack+Developer;also+a+computer+science+student)](https://git.io/typing-svg)
 
-[![EmillyLopes's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EmillyLopes&theme=rogue)](https://github.com/EmillyLopes/github-readme-activity-graph)
+[![EmillyLopes's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EmillyLopes&bg_color=120A1A&color=86FBF5&line=F10A87&point=F10A87&area=true&hide_border=true)](https://github.com/EmillyLopes/github-readme-activity-graph)
 
 ##
  
@@ -45,6 +45,6 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{EmillyLopes}/count.svg" /></p> 
 <br>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F718C2&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F10A87&height=120&section=footer"/>
 
 ______
