@@ -8,9 +8,8 @@
  
  <div  align="center">
   <a href="https://github.com/EmillyLopes">
-  <img "height="180em" src="https://github-readme-stats-emillylopes.vercel.app/api?username=EmillyLopes&show_icons=true&theme=dark&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-"/>
-  <img "height="180em" src="https://github-readme-stats-emillylopes.vercel.app/api/top-langs/?username=EmillyLopes&layout=compact&langs_count=16&theme=dark"/>
+  <img "height="180em" src="https://github-readme-stats-4n5h-emillylopes.vercel.app/api?username=EmillyLopes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img "height="180em" src="https://github-readme-stats-4n5h-emillylopes.vercel.app/api/top-langs/?username=EmillyLopes&layout=compact&langs_count=16&theme=radical"/>
 </div> <br> 
 <div align="center" style="display: inline_block"><br>
  <!--Backend-->
