@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F10A87&height=120&section=header"/>
+_<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F10A87&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F10A87&center=true&vCenter=true&width=435&lines=Hello!+Welcome+to+my+GitHub+profile!;I'm+Emilly+Lopes!++;a+FullStack+Developer;also+a+computer+science+student)](https://git.io/typing-svg)
 
@@ -8,8 +8,11 @@
  
  <div  align="center">
   <a href="https://github.com/EmillyLopes">
-  <img "height="180em" src="https://github-readme-stats-emillylopes.vercel.app/api?username=EmillyLopes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img "height="180em" src="https://github-readme-stats-emillylopes.vercel.app/api/top-langs/?username=EmillyLopes&layout=compact&langs_count=16&theme=radical"/>
+<!--   <img "height="180em" src="https://github-readme-stats-emillylopes.vercel.app/api?username=EmillyLopes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>-->
+  <img "height="180em" src="https://github-readme-stats-wbdu-emillylopes.vercel.app/api?username=EmillyLopes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<!--   <img "height="180em" src="https://github-readme-stats-emillylopes.vercel.app/api/top-langs/?username=EmillyLopes&layout=compact&langs_count=16&theme=radical"/>-->
+  <img "height="180em" src="https://github-readme-stats-wbdu-emillylopes.vercel.app/api/top-langs/?username=EmillyLopes&layout=compact&langs_count=16&theme=radical"/> 
+
 </div> <br> 
 <div align="center" style="display: inline_block"><br>
  <!--Backend-->
@@ -48,3 +51,4 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F10A87&height=120&section=footer"/>
 
 ______
+_
